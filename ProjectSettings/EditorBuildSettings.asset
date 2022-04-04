@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/DashBoard.unity
+    path: Assets/Lock/Scenes/DashBoard.unity
     guid: e3daff55a3c554decbaf86ad06835da6
   - enabled: 1
-    path: Assets/Scenes/Map.unity
+    path: Assets/Lock/Scenes/Map.unity
     guid: 839504c51bf1240239875cbc438f75ff
   - enabled: 1
-    path: Assets/Scenes/ArScene.unity
+    path: Assets/Lock/Scenes/ArScene.unity
     guid: d9efadfa260f546ecab08d3ff2660071
   - enabled: 1
-    path: Assets/Scenes/Surveys.unity
+    path: Assets/Lock/Scenes/Surveys.unity
     guid: 9c1e19c31e4e1493284957c91a501ef5
   m_configObjects: {}
